@@ -3,7 +3,7 @@
 **A research whiteboard where every paper is a live card.**
 A paper library, a notebook and an infinite canvas in one app, built for Mac and iPad with Apple Pencil.
 
-![A tour of a real thesis board: paper cards, notes, arrows and handwriting](media/board-tour.gif)
+![A walkthrough on a real thesis board: zooming around the canvas, opening a paper and its notes, then the library](media/demo.gif)
 
 <sub>A real working board from my thesis, not a mock-up.</sub>
 
@@ -79,7 +79,7 @@ Ideas currently being explored: citation-manager integration (Zotero), PDF stora
 
 ## Get in touch
 
-If you do research and this is the tool you have been missing, or you would like to talk about it, [open an issue](../../issues) or reach me through my GitHub profile.
+If you do research and this is the tool you have been missing, or you would like to talk about it, write to me directly at [a.bennasr.000@gmail.com](mailto:a.bennasr.000@gmail.com) or [open an issue](../../issues).
 
 ---
 
